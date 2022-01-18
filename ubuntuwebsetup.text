@@ -1,0 +1,8 @@
+Steps in starting my web server in my Ubuntu machine:
+
+1. sudo service apache2 start/stop/restart
+2. sudo service mysql start
+ 
+Command to create a user for SQL
+
+1. sudo mysql -u root -p / mysql -u smith -p
